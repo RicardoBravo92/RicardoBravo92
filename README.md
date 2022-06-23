@@ -1,4 +1,5 @@
 <p>Hi im Ricardo Bravo Eng Telecom Mcs Telematics MERN Dev</p> 
+<p>You can email me ricardojbn5@gmail.com</p> 
 
 ---  
 
