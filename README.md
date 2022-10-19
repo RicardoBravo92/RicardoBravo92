@@ -27,7 +27,7 @@
     <a href="https://github.com/RicardoBravo92">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     </a>
-    <a href="https://https://www.linkedin.com/in/ricardo-bravo-neri-8b9183a7/?locale=en_US">
+    <a href="https://www.linkedin.com/in/ricardo-bravo-neri/?locale=en_US">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
     </a>
 </p>
