@@ -20,7 +20,7 @@
 I'm a **Fullstack Developer** with experience building scalable applications. I specialize in the JavaScript ecosystem but enjoy exploring high-performance backend solutions.
 
 - 🔭 **Current Focus:** Building multi-tenant SaaS platforms and reservation systems.
-- 🚀 **Tech Stack:** React, Next.js, Node.js, and FastAPI.
+- 🚀 **Tech Stack:** React, Next.js, Angular, Node.js, and FastAPI.
 - ⚡ **Goal:** Engineering efficient, role-based architectures and clean UI/UX.
 
 ---
@@ -29,7 +29,7 @@ I'm a **Fullstack Developer** with experience building scalable applications. I 
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind" />
 </p>
 
 **Backend & Database**
